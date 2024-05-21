@@ -1,6 +1,6 @@
-RSpec.describe SuperDateParser2 do
+RSpec.describe SuperDateParser do
   it "has a version number" do
-    expect(SuperDateParser2::VERSION).not_to be nil
+    expect(SuperDateParser::VERSION).not_to be nil
   end
 
   it "does something useful" do

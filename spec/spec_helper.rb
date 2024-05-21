@@ -1,5 +1,5 @@
 require "bundler/setup"
-require "super_date_parser2"
+require "super_date_parser"
 
 RSpec.configure do |config|
   # Enable flags like --only-failures and --next-failure
